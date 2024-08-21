@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hunger Treats</string>
+    <string name="let_s_go">Let\'s go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">951187621882-qi087gf0h3f8ve634a0k09l9fkq1c5si.apps.googleusercontent.com</string>
+</resources>
